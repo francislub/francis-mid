@@ -1,0 +1,15 @@
+li a {
+    background-color:white;
+    color: black;
+
+    text-align: center;
+    
+}
+li a {
+    cursor: pointer;
+    size: 70%;
+    margin-right: 50%;
+}
+div.pp{
+    color: aqua;
+}
